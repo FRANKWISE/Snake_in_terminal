@@ -1,2 +1,4 @@
 # Snake_in_terminal
-Classis snake game
+Classic snake game
+
+Run in cmd
